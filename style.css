@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Major Mono Display', monospace;
+    height: 200px;
+}
+
+button {
+    border: none;
+    background-color: #246e3a;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
