@@ -55,7 +55,7 @@ var getWord = () => {
 
 var generate = () => {
     var out = "";
-    const fuck = Math.random() * 4 + 3;
+    const fuck = Math.random() * 200 + 3;
     for (var i = 0; i < fuck; i++) {
         out += getWord();
         if (i < fuck - 1) {
