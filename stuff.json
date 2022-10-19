@@ -1,67 +1,33 @@
 {
     "math": {
         "names": [{
-                "plain": "Euler",
-                "possessive": "Euler's",
-                "type": "Eulerian"
+                "plain": "Ea apps due in 12 days",
+                "possessive": "Ea apps due in 12 days",
+                "type": "Ea apps due in 12 days"
             },
             {
-                "plain": "Riemman",
-                "possessive": "Riemman's",
-                "type": "Riemmanian"
+                "plain": "Ea apps due in 12 days",
+                "possessive": "Ea apps due in 12 days",
+                "type": "Ea apps due in 12 days"
             },
             {
-                "plain": "Fourier",
-                "possessive": "Fourier's",
-                "type": "Fourierian"
-            },
-            {
-                "plain": "Gauss",
-                "possessive": "Gauss'",
-                "type": "Gaussian"
-            },
-            {
-                "plain": "Newton",
-                "possessive": "Newton's",
-                "type": "Newtonian"
-            },
-            {
-                "plain": "Euclid",
-                "possessive": "Euclid's",
-                "type": "Euclidean"
-            },
-            {
-                "plain": "Archimedes",
-                "possessive": "Archimedes'",
-                "type": "Archimedean"
-            },
-            {
-                "plain": "Pythagoras",
-                "possessive": "Pythagoras'",
-                "type": "Pythagorean"
+                "plain": "Ea apps due in 12 days",
+                "possessive": "Ea apps due in 12 days",
+                "type": "Ea apps due in 12 days"
             }
+            
         ],
         "modifier": [
-            "Circular",
-            "Geometric",
-            "Natural",
-            "Complex",
-            "Real",
-            "Rational",
-            "Polynomial",
-            "Exponential",
-            "Logarithmic",
-            "Infinitesmal"
+            "College",
+            "Apps",
+            "College",
+            "Apps"
         ],
         "type": [
-            "Derivative",
-            "Integral",
-            "Theorem",
-            "Lemma",
-            "Method",
-            "Law",
-            "Equation",
-            "Constant"
+            "College",
+            "Apps",
+            "College",
+            "Apps"
         ]
     }
 }
